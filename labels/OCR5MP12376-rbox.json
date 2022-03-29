@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "MicroQR",
+        "rows": 15,
+        "cols": 15,
+        "polarity": 1,
+        "x": 1091.5,
+        "y": -486.5,
+        "w": 465.0,
+        "h": 457.0,
+        "theta": 0.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              859.0,
+              -715.0
+            ],
+            [
+              1324.0,
+              -715.0
+            ],
+            [
+              1324.0,
+              -258.0
+            ],
+            [
+              859.0,
+              -258.0
+            ],
+            [
+              859.0,
+              -715.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

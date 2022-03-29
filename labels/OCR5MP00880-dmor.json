@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Datamatrix",
+        "rows": 14,
+        "cols": 14,
+        "polarity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1316.0,
+              -436.0
+            ],
+            [
+              1323.0,
+              -879.0
+            ],
+            [
+              874.0,
+              -881.0
+            ],
+            [
+              864.0,
+              -439.0
+            ],
+            [
+              1316.0,
+              -436.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

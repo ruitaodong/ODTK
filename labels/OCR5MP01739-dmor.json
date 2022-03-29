@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "QR",
+        "rows": 37,
+        "cols": 37,
+        "polarity": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1700.0,
+              -580.0
+            ],
+            [
+              1245.0,
+              -583.0
+            ],
+            [
+              1232.0,
+              -184.0
+            ],
+            [
+              1697.0,
+              -185.0
+            ],
+            [
+              1700.0,
+              -580.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
